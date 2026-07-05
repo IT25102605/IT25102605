@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋 I'm Lithu Rshan
 
-<!--
-**IT25102605/IT25102605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+🎓 IT Undergraduate at SLIIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Full-Stack Software Engineer
+
+🌱 Currently learning Java, React, Spring Boot and MERN Stack
+
+🚀 Passionate about building modern web applications
+
+---
+
+## 🛠️ Tech Stack
+
+- Java
+- React
+- Spring Boot
+- JavaScript
+- HTML
+- CSS
+- MySQL
+- Git
+- GitHub
+
+---
+
+## 📌 Current Project
+
+🍳 Cook With AI
+
+AI-powered recipe recommendation web application.
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/lithu-rshan-4aaa8141b
