@@ -37,3 +37,11 @@ AI-powered recipe recommendation web application.
 ## 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/lithu-rshan-4aaa8141b
+
+- ---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IT25102605&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IT25102605&layout=compact&theme=github_dark)
